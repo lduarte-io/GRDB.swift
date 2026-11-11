@@ -1,3 +1,7 @@
+> **This is a fork.** [`lduarte-io/GRDB.swift`](https://github.com/lduarte-io/GRDB.swift) is [groue/GRDB.swift](https://github.com/groue/GRDB.swift) with the SQLCipher setup applied, maintained for [Variorum](https://github.com/lduarte-io)'s use and pinned by exact tag (`v*+sqlcipher.*`). It tracks upstream releases as needed and takes no contributions. **Please report GRDB issues and send GRDB contributions upstream to [groue/GRDB.swift](https://github.com/groue/GRDB.swift)** — everything below this line is upstream's own README.
+
+---
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/groue/GRDB.swift/master/GRDB~dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/groue/GRDB.swift/master/GRDB.png">
